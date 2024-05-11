@@ -24,5 +24,5 @@ class Solution:
                 if s_cnt[s[l]] < t_cnt[s[l]]:
                     have -= 1
                 l += 1
-a
+
         return ans
